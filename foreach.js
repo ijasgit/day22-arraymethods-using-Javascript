@@ -1,2 +1,3 @@
-var fruits = ['apple', 'orange', 'banana', 'grapes']
-fruits.forEach(Element => console.log(Element))
+const a = ['arun', 'kumar', 'nithish'];
+
+a.forEach (Element=> console.log(Element));

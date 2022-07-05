@@ -1,4 +1,3 @@
-var fruits=['apple','orange','banana','grapes']
-var veg=['carrot','beans','onion','tomato']
-var vegfruit = fruits.concat(veg,1,2,3)
-console.log(vegfruit)
+let a=[1,4,2,7];
+let b=[3,8,5,9];
+let k=a.concat(b);

@@ -1,4 +1,5 @@
-var fruits=['apple','orange','banana','grapes']
-b=fruits.at(1);
-console.log(b);
-console.log(fruits);
+const x = [5, 12, 8, 130, 44];
+
+console.log(x.at(3));
+
+console.log(x.at(1));
